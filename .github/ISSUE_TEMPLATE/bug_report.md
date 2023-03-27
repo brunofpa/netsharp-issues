@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: Template para criação de issues de bugs
-title: "[BUG]"
+about: Relatar bugs da extensão
+title: 'BUG - '
 labels: ''
 assignees: ''
 
